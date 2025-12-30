@@ -6,7 +6,7 @@ I have a strong foundation in **Data Structures and Algorithms**, having solved 
 
 I am passionate about developing **real-world products** and continuously improving through practical implementation. Currently, I’m exploring **AI-powered web applications** and experimenting with **3D experiences using Three.js**, blending creativity with engineering to build engaging digital experiences.
 
-💡 *Actively seeking Software Development / Frontend Internship opportunities*
+💡 *Actively seeking Software Development Internship opportunities*
 
 ---
 
