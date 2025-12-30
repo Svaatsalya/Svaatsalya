@@ -1,6 +1,6 @@
 ## 🌟 About Me  
 
-Hi 👋, I’m **Vaatsalya Sahu**, a 19-year-old aspiring **Software Developer** from **Kanpur, India**, currently pursuing **B.Tech in Chemical Engineering at IIT Indore** *(Expected 2028)*.
+Hi 👋, I’m **Vaatsalya Sahu**, a 19-year-old aspiring **Software Developer** from **Kanpur, India**, currently pursuing **B.Tech at IIT Indore** *(Expected 2028)*.
 
 I have a strong foundation in **Data Structures and Algorithms**, having solved **100+ problems on LeetCode**, reflecting consistency, analytical thinking, and strong problem-solving skills. Alongside DSA, I have hands-on experience in **frontend and full-stack web development**, focused on building **scalable, responsive, and user-centric applications** using modern JavaScript technologies—especially **React**.
 
@@ -49,13 +49,6 @@ I am passionate about developing **real-world products** and continuously improv
 - Building **AI-integrated web applications**  
 - Exploring **3D UI and animations using Three.js**  
 - Developing **production-ready real-world projects**
-
----
-
-## 📊 GitHub Stats  
-
-![Vaatsalya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Svaatsalya&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Svaatsalya&layout=compact&theme=tokyonight)
 
 ---
 
