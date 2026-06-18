@@ -2,7 +2,7 @@
 
 Hi 👋, I’m **Vaatsalya Sahu**, a 20-year-old aspiring **Software Developer** from **Kanpur, India**, currently pursuing **B.Tech at IIT Indore** *(Expected 2028)*.
 
-I have a strong foundation in **Data Structures and Algorithms**, having solved **100+ problems on LeetCode**, reflecting consistency, analytical thinking, and strong problem-solving skills. Alongside DSA, I have hands-on experience in **frontend and full-stack web development**, focused on building **scalable, responsive, and user-centric applications** using modern JavaScript technologies—especially **React**.
+I have a strong foundation in **Data Structures and Algorithms**, having solved **250+ problems on LeetCode**, reflecting consistency, analytical thinking, and strong problem-solving skills. Alongside DSA, I have hands-on experience in **frontend and full-stack web development**, focused on building **scalable, responsive, and user-centric applications** using modern JavaScript technologies—especially **React**.
 
 I am passionate about developing **real-world products** and continuously improving through practical implementation. Currently, I’m exploring **AI-powered web applications** and experimenting with **3D experiences using Three.js**, blending creativity with engineering to build engaging digital experiences.
 
